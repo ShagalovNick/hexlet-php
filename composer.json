@@ -11,5 +11,7 @@
             "email": "sekunda-61@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
